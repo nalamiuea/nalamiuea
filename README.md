@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,git,bash&scale=1.0&theme=dark" />
+  </a>
+</p>
+
 
 <!--
 **nalamiuea/nalamiuea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
